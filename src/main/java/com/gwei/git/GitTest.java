@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello Git! version 2.0");
         System.out.println("Hello Git! version 3.0");
         System.out.println("hot-fix branch test!");
+        System.out.println("master test conflict!");
     }
 }
